@@ -20,7 +20,7 @@ I am a multi-disciplinary AI Engineer dedicated to moving beyond simple chatbots
 | :--- | :--- |
 | **Languages** | Python, SQL |
 | **Generative AI** | LangGraph, LangChain, OpenAI, Claude |
-| **Vector DBs** | ChromaDB, Pinecone |
+| **Vector DBs** | FAISS, ChromaDB, Pinecone |
 | **Machine Learning** | PyTorch, Scikit-Learn, Pandas |
 | **Deployment** | FastAPI, Docker, Streamlit |
 
