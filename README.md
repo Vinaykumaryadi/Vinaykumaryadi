@@ -1,16 +1,16 @@
-# Hi there, I'm Vinay Kumar 👋
+# Hi there, I'm Vinay Kumar Yadi 👋
 
-### 🤖 GenAI & ML Engineer
-*Focusing on Agentic Workflows, Deep Learning, and Production-Grade AI.*
+### 🤖 AI/ML Engineer
+*Specializing in Agentic RAG, High-Performance Inference, and Production-Grade AI.*
 
 ---
 
 ## 👨‍💻 About Me
-I am a multi-disciplinary AI Engineer dedicated to moving beyond simple chatbots. I specialize in building **autonomous systems** that reason, self-correct, and scale. My goal is to bridge the gap between complex research and reliable, human-in-the-loop applications.
+I am a multi-disciplinary AI Engineer dedicated to moving beyond simple chatbots. I build **autonomous reasoning systems** that self-correct and solve complex enterprise workflows. My focus is on delivering low-latency, cost-effective AI solutions using the latest in Agentic Orchestration and local vector databases.
 
-- 🔭 Currently working on: **Agentic RAG for ITSM Automation**
-- 🌱 Learning: **Knowledge Graphs (Neo4j) & LLMOps**
-- ⚡ Fun fact: I believe the best AI systems are built on clean data, not just big models.
+- 🚀 **Latest Release:** [Agentic ITSM RAG](https://github.com/Vinaykumaryadi/itsm-rag-ultimate) — A high-speed automation engine using **Groq** and **FAISS**.
+- 🌱 **Learning:** Knowledge Graphs (Neo4j) & LLM Quantization for Edge Deployment.
+- ⚡ **Fun fact:** I prefer local embeddings over API-based ones for data privacy and zero-latency retrieval.
 
 ---
 
@@ -18,18 +18,19 @@ I am a multi-disciplinary AI Engineer dedicated to moving beyond simple chatbots
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Languages** | Python, SQL |
-| **Generative AI** | LangGraph, LangChain, OpenAI, Claude |
-| **Vector DBs** | FAISS, ChromaDB, Pinecone |
-| **Machine Learning** | PyTorch, Scikit-Learn, Pandas |
-| **Deployment** | FastAPI, Docker, Streamlit |
+| **Generative AI** | LangGraph, LangChain, Llama 3.3, OpenAI, Claude |
+| **Inference & Speed**| Groq, vLLM, HuggingFace Transformers |
+| **Vector Databases** | FAISS, ChromaDB, Pinecone |
+| **Backend & UI** | FastAPI, Streamlit, Docker |
+| **Data Science** | PyTorch, Scikit-Learn, Pandas, Seaborn |
 
 ---
 
 ## 🌟 Featured Project
-### [ITSM RAG Ultimate](https://github.com/Vinaykumaryadi/itsm-rag-ultimate)
-A production-grade IT Service Management engine featuring a Supervisor Agent and Human-in-the-Loop safety layers. 
-* **Key Tech:** LangGraph, FastAPI, ChromaDB, MLflow.
+### [Agentic RAG for ITSM Automation](https://github.com/Vinaykumaryadi/itsm-rag-ultimate)
+A production-grade IT Service Management engine featuring an agentic reasoning loop that mimics a support technician.
+* **Key Tech:** LangGraph, Groq (Llama 3.3), FAISS, HuggingFace.
+* **Impact:** Achieved sub-second response times using high-performance inference and grounded retrieval from 1,000+ incident logs.
 
 ---
 
@@ -39,4 +40,9 @@ A production-grade IT Service Management engine featuring a Supervisor Agent and
 
 ---
 
-📫 **How to reach me:** [Insert your LinkedIn or Email Link Here]
+## 📫 How to reach me
+- **LinkedIn:** [Insert your LinkedIn Link]
+- **Email:** Vinaykumaryadi@gmail.com
+
+---
+*"Building the future of autonomous intelligence, one agent at a time."*
