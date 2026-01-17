@@ -86,13 +86,14 @@ I believe great AI is built on **system design, data integrity, and rigorous eva
 
 ## 📫 Let's Connect
 <p align="left">
-  <a href=" https://www.linkedin.com/in/vinay-kumar-yadi-23435b64/" target="_blank">
+  <a href="https://www.linkedin.com/in/vinay-kumar-yadi-23435b64/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:Vinaykumaryadi@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
 
 *"Building the future of autonomous intelligence, one agent at a time."*
 
