@@ -41,7 +41,7 @@ A production-grade IT Service Management engine featuring an agentic reasoning l
 ---
 
 ## 📫 How to reach me
-- **LinkedIn:** [Insert your LinkedIn Link]
+- **LinkedIn:** https://www.linkedin.com/in/vinay-kumar-yadi-23435b64/
 - **Email:** Vinaykumaryadi@gmail.com
 
 ---
